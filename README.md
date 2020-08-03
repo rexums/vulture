@@ -20,7 +20,7 @@ https://www.youtube-nocookie.com/embed/2UTW9jv-p78
 *Linux:*
 1. Open the terminal.
 2. type in: *sudo nano /etc/hosts*
-3. Add a new line with the content: *137.74.155.114 vulture.bplaced.net.
+3. Add a new line with the content: *137.74.155.114 vulture.bplaced.net*.
 4. Now download Vulture, unzip it and run the Installer. (https://github.com/rexjohannes/vulture/raw/master/Vulture.zip)
 5. Start the vulture client and have fun!
 
