@@ -41,6 +41,8 @@ https://www.youtube-nocookie.com/embed/2UTW9jv-p78
 5. Download VultureBypass.jar and execute it with the command: "**sudo** java -jar VultureBypass.jar" (https://github.com/rexjohannes/vulture/raw/master/VultureBypass.jar)
 6. Start the vulture client and have fun!
 
+**Video:** https://www.youtube.com/embed/mEPhiVIlyKQ
+
 Have fun ;)
 
 
