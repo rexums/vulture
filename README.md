@@ -15,6 +15,9 @@
 3. Now download Vulture, unzip it and run the Installer. (https://github.com/rexjohannes/vulture/raw/master/Vulture.zip)
 4. Start the vulture client and have fun!
 
+**Video:**
+https://www.youtube-nocookie.com/embed/2UTW9jv-p78
+
 *Linux:*
 1. Open the terminal.
 2. type in: *sudo nano /etc/hosts*
@@ -34,13 +37,10 @@
 *Linux:*
 1. Open the terminal.
 2. type in: *sudo nano /etc/hosts*
-3. Add a new line with the content: *127.0.0.1 vulture.bplaced.net.
+3. Add a new line with the content: *127.0.0.1 vulture.bplaced.net*.
 4. Now download Vulture, unzip it and run the Installer. (https://github.com/rexjohannes/vulture/raw/master/Vulture.zip)
 5. Download VultureBypass.jar and execute it with the command: "**sudo** java -jar VultureBypass.jar" (https://github.com/rexjohannes/vulture/raw/master/VultureBypass.jar)
 6. Start the vulture client and have fun!
-
-**Video:**
-https://www.youtube-nocookie.com/embed/2UTW9jv-p78
 
 Have fun ;)
 
