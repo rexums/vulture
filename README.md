@@ -1,8 +1,8 @@
 # vulture
-**JAR**:
+**Server Spoofer**:
 
-*Linux*:
-1. Type in *sudo nano /etc/hots/*
-2. Add *127.0.0.1 vulture.bplaced.net* to the file, press *Strg + X* and then Press Y.
-3. Start the jar with sudo java -jar VultureBypass.jar
+*Windows*:
+1. Open Explorer and go to *C:\Windows\System32\drivers\etc*.
+2. Open the *hostes* file with a editor. Add the Line *137.74.155.114 vulture.bplaced.net* to the file and save it.
+3. Now download Vulture, unzip it and run the Installer.
 4. Start the vulture client and have fun!
