@@ -1,5 +1,6 @@
 # vulture
 **JAR**:
+
 *Linux*:
 1. Type in *sudo nano /etc/hots/*
 2. Add *localhost:12345 vulture.bplaced.net* to the file.
