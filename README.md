@@ -1,9 +1,11 @@
 # vulture
 **Server Spoofer**:
 
-Vulture: https://github.com/rexjohannes/vulture/raw/master/Vulture.zip
-SRC: https://github.com/rexjohannes/vulture/raw/master/Vulture%20Src%20Leak.zip
-Vulture Configs: https://github.com/rexjohannes/vulture-settings
+*Vulture*: https://github.com/rexjohannes/vulture/raw/master/Vulture.zip
+
+*SRC*: https://github.com/rexjohannes/vulture/raw/master/Vulture%20Src%20Leak.zip
+
+*Vulture Configs*: https://github.com/rexjohannes/vulture-settings
 
 *Windows*:
 1. Open Explorer and go to *C:\Windows\System32\drivers\etc*.
