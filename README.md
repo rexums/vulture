@@ -2,6 +2,7 @@
 **Server Spoofer**:
 
 Vulture: https://github.com/rexjohannes/vulture/raw/master/Vulture.zip
+Vulture Configs: https://github.com/rexjohannes/vulture-settings
 
 *Windows*:
 1. Open Explorer and go to *C:\Windows\System32\drivers\etc*.
