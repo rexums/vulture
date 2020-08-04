@@ -50,8 +50,5 @@ https://www.youtube.com/embed/mEPhiVIlyKQ
 
 Have fun ;)
 
-**If the server don't work, try local**
-
-
 Copyright rexjohannes98 and SirLennox
 All rights reserved.
