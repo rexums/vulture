@@ -4,6 +4,8 @@
 
 *SRC*: https://github.com/rexjohannes/vulture/raw/master/Vulture%20Src%20Leak.zip
 
+*Cracked Jar*: https://github.com/rexjohannes/vulture/raw/master/Vulture%20Crack.zip
+
 *Vulture Configs*: https://github.com/rexjohannes/vulture-settings
 
 **Server:**
