@@ -1,12 +1,12 @@
 # vulture
 
-*Vulture*: https://github.com/rexjohannes/vulture/raw/master/Vulture.zip
+*Vulture*: https://github.com/rexums/vulture/raw/master/Vulture.zip
 
 *SRC*: https://github.com/rexjohannes/vulture/raw/master/Vulture%20Src%20Leak.zip
 
 *Cracked Jar*: https://github.com/rexjohannes/vulture/raw/master/Vulture%20Crack.zip
 
-*Vulture Configs*: https://github.com/rexjohannes/vulture-settings
+*Vulture Configs*: https://github.com/rexums/vulture-settings
 
 **Local:**
 
